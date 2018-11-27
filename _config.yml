@@ -1,9 +1,9 @@
 title: Posts
 description: My Personal Stack Problems
-author: Darius Jones
-github: https://github.com/DJones0101
+author: Agus Makmun
+github: https://github.com/agusmakmun
 about: CS student.
-disqus_shortname: stackproblems
+disqus_shortname: #stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -21,7 +21,7 @@ social:
     #- icon: fa-twitter
       #link: "https://twitter.com/"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/darius-jones-335b3b46/"
     #- icon: fa-stack-exchange
      # link: "#"
     - icon: fa-github
