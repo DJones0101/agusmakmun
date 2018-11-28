@@ -3,8 +3,8 @@ description: #My Personal Stack Problems
 author: Darius Jones
 github: https://github.com/agusmakmun
 about: CS student.
-disqus_shortname: #stackproblems
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: #
+google_analytics: UA-129970740-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
