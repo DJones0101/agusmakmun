@@ -1,5 +1,5 @@
 title: Posts
-description: 
+description: My Personal Stack Problems
 author: Darius Jones
 github: https://github.com/agusmakmun
 about: What part of ∀f ∃g (f (x,y) = (g x) y) did you not understand?
@@ -36,8 +36,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-     url: /feed.xml
+   # - text: XML Feed
+   #  url: /feed.xml
 
 url: "https://dariusjones0101.com"
 baseurl: ""
