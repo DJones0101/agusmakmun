@@ -1,8 +1,8 @@
 title: Posts
-description: #My Personal Stack Problems
+description: 
 author: Darius Jones
 github: https://github.com/agusmakmun
-about: CS student.
+about: What part of ∀f ∃g (f (x,y) = (g x) y) did you not understand?
 disqus_shortname: #
 google_analytics: UA-129970740-1
 avatar_url: /static/img/avatar.jpg
@@ -36,8 +36,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-   # - text: XML Feed
-   #  url: /feed.xml
+    - text: XML Feed
+     url: /feed.xml
 
 url: "https://dariusjones0101.com"
 baseurl: ""
