@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Use This Trick If You Need to Make Switch Staments in Python"
-categories: python,java,c
+categories: python/java/c
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
