@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: java
-title: java
+title: Java
 permalink: /category/java
 ---
