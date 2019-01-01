@@ -123,5 +123,5 @@ Here's the live video feed.
 
 Press the esc key to close the window. Isn't this cool!! Well it's getting late, I have to find a site that's streaming the count down. HAPPY NEW YEAR!!
 
-<meta name="description" property="og:description" content="[I will show you how to detect colors using OpenCV]">
-<meta name="image" property="og:image" content="[/static/img/Live_Feed.png]">
+<meta name="description" property="og:description" content="[To detect the largest contour, we use the max function with the contour we found earlier. Now we find the center of the circle and the radius with minEnclosingCircle and draw it on the frame. If the radius is larger than zero, we detected our marble...]">
+<meta name="image" property="og:image" content="[https://dariusjones0101.com/static/img/Live_Feed.png]">
