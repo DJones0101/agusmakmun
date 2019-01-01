@@ -122,3 +122,6 @@ Here's the live video feed.
 ![image](/static/img/Live_Feed.png)
 
 Press the esc key to close the window. Isn't this cool!! Well it's getting late, I have to find a site that's streaming the count down. HAPPY NEW YEAR!!
+
+<meta name="description" property="og:description" content="[I will show you how to detect colors using OpenCV]">
+<meta name="image" property="og:image" content="[/static/img/Live_Feed.png]">
